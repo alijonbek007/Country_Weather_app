@@ -1,2 +1,2 @@
-# Country_Weather_app
+# Country Weather app
 Mamlakatlarning ob-havo malumotlarini beruvchi dastur
